@@ -1,0 +1,9 @@
+c:\users\mastermind\documents\visual studio 2015\Projects\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\Mastermind\documents\visual studio 2015\Projects\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\Mastermind\documents\visual studio 2015\Projects\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\Mastermind\documents\visual studio 2015\Projects\Stack\Stack\bin\Debug\Stack.xml
+C:\Users\Mastermind\documents\visual studio 2015\Projects\Stack\Stack\obj\Debug\Stack.Resources.resources
+C:\Users\Mastermind\documents\visual studio 2015\Projects\Stack\Stack\obj\Debug\Stack.vbproj.GenerateResource.Cache
+C:\Users\Mastermind\documents\visual studio 2015\Projects\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\Mastermind\documents\visual studio 2015\Projects\Stack\Stack\obj\Debug\Stack.xml
+C:\Users\Mastermind\documents\visual studio 2015\Projects\Stack\Stack\obj\Debug\Stack.pdb
