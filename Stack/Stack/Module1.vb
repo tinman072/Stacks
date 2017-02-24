@@ -83,6 +83,7 @@
 
             If basePTR = nullPTR Then
                 Console.WriteLine("There are no nodes to print")
+                Exit Sub
             End If
 
             Dim TNP As Integer = topPTR

@@ -7,3 +7,13 @@ C:\Users\Mastermind\documents\visual studio 2015\Projects\Stack\Stack\obj\Debug\
 C:\Users\Mastermind\documents\visual studio 2015\Projects\Stack\Stack\obj\Debug\Stack.exe
 C:\Users\Mastermind\documents\visual studio 2015\Projects\Stack\Stack\obj\Debug\Stack.xml
 C:\Users\Mastermind\documents\visual studio 2015\Projects\Stack\Stack\obj\Debug\Stack.pdb
+C:\Users\Quasem\Desktop\Stacks-master\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\Quasem\Desktop\Stacks-master\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\Quasem\Desktop\Stacks-master\Stack\Stack\obj\Debug\Stack.xml
+C:\Users\Quasem\Desktop\Stacks-master\Stack\Stack\obj\Debug\Stack.pdb
+C:\Users\Quasem\Desktop\Stacks-master\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\Quasem\Desktop\Stacks-master\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\Quasem\Desktop\Stacks-master\Stack\Stack\bin\Debug\Stack.xml
+C:\Users\Quasem\Desktop\Stacks-master\Stack\Stack\obj\Debug\Stack.vbprojResolveAssemblyReference.cache
+C:\Users\Quasem\Desktop\Stacks-master\Stack\Stack\obj\Debug\Stack.Resources.resources
+C:\Users\Quasem\Desktop\Stacks-master\Stack\Stack\obj\Debug\Stack.vbproj.GenerateResource.Cache
